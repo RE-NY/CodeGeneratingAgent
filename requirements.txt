@@ -1,0 +1,6 @@
+llama-index==0.10.25
+llama-index-core==0.10.25.post2
+llama-parse==0.4.0
+ast
+python-dotenv
+-e .
